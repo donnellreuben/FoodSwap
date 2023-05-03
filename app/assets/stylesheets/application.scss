@@ -5,3 +5,16 @@ body {
   background-color: #F9F9F9;
   
 }
+
+input[type="submit"] {
+  background-color: #44AE40;
+
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #065f46 !important;
+}
+
