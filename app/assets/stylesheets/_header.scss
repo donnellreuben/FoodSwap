@@ -1,0 +1,45 @@
+// Nav Header 🙆🏾‍♂️ 💀
+.nav-header {
+  background-color: #F9F9F9;
+}
+
+  // Nav Header Contents 
+  .nav-container {
+    min-height: 80px;
+    align-items: center;
+
+  }
+
+    // Nav Header Logo
+  .logo-link {
+    max-width: 220px;
+  }
+
+
+
+    // Nav Header Search Bar
+    .nav-search-bar {
+      background-color: white;
+    }
+
+    // Nav Icon Bell
+    .nav-icon-bell {
+      background-color: white;
+    }
+
+    // Profile Pic
+    .nav-icon-profile-pic {
+      background-color: black;
+    }
+
+    // Profile Dropdown (removes underline)
+    a {
+      text-decoration: none;
+    }
+// AirBnb Logo -change its color in _colors.scss file
+.logo-link {
+  svg {
+    display: block;
+    
+  }
+}
