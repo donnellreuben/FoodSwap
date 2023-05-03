@@ -1,8 +1,8 @@
 # Recipe Swap
 
 ## Log in page
-<img width="1728" alt="logininpage" src="https://user-images.githubusercontent.com/117698398/235858570-80f31cf5-9287-4ed3-b494-3acd22fc6934.png">
+<img width="1724" alt="logininpage" src="https://user-images.githubusercontent.com/117698398/235858879-c3a02c6e-42d3-487f-9df8-dc2a966d8414.png">
 
 
 ## Sign up page
-<img width="1728" alt="signuppage" src="https://user-images.githubusercontent.com/117698398/235858601-11fcf0b0-8a6d-4561-a0b5-7416ab294fe9.png">
+<img width="1725" alt="signuppage" src="https://user-images.githubusercontent.com/117698398/235858913-2043ea1f-c938-42f5-94c9-d61d26d85b24.png">
