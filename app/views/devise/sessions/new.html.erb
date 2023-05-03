@@ -1,5 +1,7 @@
 <div class="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-md w-full space-y-8">
+  
+				<a href="<%= root_path %>" class="logo-link"><%= image_tag("dinner", alt: "Food Swap Logo") %></a>
     <div>
       <h2 class="mt-6 text-center text-3xl font-extrabold text-gray-900">Log in</h2>
       <p class="mt-2 text-center text-sm text-gray-600">
@@ -22,7 +24,7 @@
       <div class="flex items-center justify-between">
         <% if devise_mapping.rememberable? %>
           <div class="flex items-center">
-            <%= f.check_box :remember_me, class: "h-4 w-4 text-red-600 focus:ring-red-500 border-gray-300 rounded" %>
+            <%= f.check_box :remember_me, class: "h-4 w-4 text-green-600 focus:ring-emerald-800 border-gray-300 rounded" %>
             <%= f.label :remember_me, class: "ml-2 block text-sm text-gray-900" %>
           </div>
         <% end %>
