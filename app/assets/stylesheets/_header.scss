@@ -29,8 +29,16 @@
 
     // Profile Pic
     .nav-icon-profile-pic {
-      background-color: black;
+      background-color: #0000000e;
     }
+
+
+    .logo-image {
+      max-width: 50px;
+      position: relative;
+      z-index: 5;
+    }
+
 
     // Profile Dropdown (removes underline)
     a {
