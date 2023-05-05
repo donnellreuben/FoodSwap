@@ -10,3 +10,6 @@
 
 ## Sign up page
 <img width="1725" alt="signuppage" src="https://user-images.githubusercontent.com/117698398/235858913-2043ea1f-c938-42f5-94c9-d61d26d85b24.png">
+
+## If gem pg wont install run: 
+gem install pg --user-install -- --with-pg-config=/opt/homebrew/opt/libpq/bin/pg_config
