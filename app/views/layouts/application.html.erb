@@ -3,7 +3,7 @@
   <head>
 
 <!-- Favicon -->
-    <%= favicon_link_tag asset_path('foodswap-favicon.png'), rel: 'icon', type: 'image/png' %>
+    <%= favicon_link_tag asset_path('frying-pan.png'), rel: 'icon', type: 'image/png' %>
     
     <title>Recipe Swap</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -28,7 +28,7 @@
 <!-- Important, dont delete -->
     <%= yield %>
     <% if flash[:notice] %>
-      <div class="alert alert-success">
+      <div class="alert alert-success" id="success-message">
         <%= flash[:notice] %>
       </div>
     <% end %>
